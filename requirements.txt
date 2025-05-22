@@ -4,3 +4,4 @@ numpy
 scikit-learn
 PyMuPDF
 python-dotenv
+pip freeze > requirements.txt
